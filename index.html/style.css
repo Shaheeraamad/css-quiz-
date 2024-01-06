@@ -1,0 +1,47 @@
+#adopt{
+    color: orange;
+}
+span{
+    color: rgb(219, 30, 30);
+}
+.parentdiv{
+    display: inline-flex;
+    border-radius: 10px;
+    justify content: space-between;
+}
+.dog{
+    
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 50px;
+    width: 500px;
+    
+}
+.cat{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 50px;
+    width: 500px;
+    
+}
+#image2{
+    height: 400px;
+    width: 470px;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+#image1{
+    height: 400px;
+    width: 470px;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+#div1{
+    margin-left: 5px;
+}
+#div2{
+    margin-left: 5px;
+}
